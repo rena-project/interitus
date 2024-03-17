@@ -1,0 +1,16 @@
+[project]
+name = "interitus"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "ryan-aoi", email = "163698864+ryan-aoi@users.noreply.github.com" }
+]
+dependencies = []
+readme = "README.md"
+requires-python = ">= 3.11"
+classifiers = ["Private :: Do Not Upload"]
+
+[tool.rye]
+managed = true
+virtual = true
+dev-dependencies = []
